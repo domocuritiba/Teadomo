@@ -1,3 +1,3 @@
 # Teadomo
 projeto de código aberto para xyz
-Objetivo de visualizar o saldo TEA na carteira metamask
+Objetivo de visualizar o saldo TEA que está na carteira metamask
